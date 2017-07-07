@@ -1,2 +1,2 @@
-# telegrambot
+# Telegram Bot
 Telegram bot in written in python, with the OpenCV library 
